@@ -17,7 +17,7 @@ with open(name, 'r') as file:
     
 #create gpt client
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Enter your api key")
 
 # function to make chatgpt generate a question based on a prompt
 
